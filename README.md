@@ -22,7 +22,7 @@ To take a break from being beaten over the head with the aggressive opinions of 
 [Taking hash tables over the shelf](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
 
 ### [Marc Brooker](https://brooker.co.za/blog/)
-Marc is an Amazon engineer who has worked on such titan products as EC2 & DynamoDB, the focus of his blog is on distributed systems and related problems. The main thing I enjoy here is he takes very complicated topics and presents them in an accessible and well written way that is also engaging, which I think is an impressive feat given how far above me it feels like a lot of the problems and solutions are. My favourite articles are where he will take a classic problem in distributed systems and demonstrate it using some fictional scenario or short story.
+Marc is an Amazon engineer who has worked on such titan products as EC2 & DynamoDB, the focus of his blog is on distributed systems and related problems. The main thing I enjoy here is he takes very complicated topics and presents them in an accessible and well written way that is also engaging, which I think is an impressive feat given how far above me it feels like a lot of the problems and solutions are. I particularly like when he will take a classic problem in distributed systems and demonstrate it using some fictional scenario or short story.
 
 [Ice cream and distrubted systems](https://brooker.co.za/blog/2014/10/25/ice-cream.html)
 
