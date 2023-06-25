@@ -27,6 +27,6 @@ Marc is an Amazon engineer who has worked on such titan products as EC2 & Dynamo
 [Ice cream and distrubted systems](https://brooker.co.za/blog/2014/10/25/ice-cream.html)
 
 ### [Carlo Pescio](http://www.carlopescio.com/)
-Carlo is an engineer whose blog is no longer active anymore but is filled with interesting articles. He mainly covers code design, namely OOP, often in a very formal approach but with a witty and snarky writing style that makes the content enjoyable to follow and interact with. For me, the biggestappeal of his blog is he offers a lot of thought provoking challenges and criticisms on what you may consider conventional OOP practice, which similar to Yegor I think is very refreshing to read.
+Carlo is an engineer whose blog is no longer active anymore but is filled with interesting articles. He mainly covers code design, namely OOP, often in a very formal approach but with a witty and snarky writing style that makes the content enjoyable to follow and interact with. For me, the appeal of his blog is he offers a lot of thought provoking challenges and criticisms on what you may consider conventional OOP practice, which similar to Yegor I think is very refreshing to read.
 
 [Life without a controller, case 1](http://www.carlopescio.com/2012/03/life-without-controller-case-1.html)
