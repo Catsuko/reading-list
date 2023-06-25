@@ -24,7 +24,7 @@ To take a break from being beaten over the head with the aggressive opinions of 
 ### [Marc Brooker](https://brooker.co.za/blog/)
 Marc is an Amazon engineer who has worked on such titan products as EC2 & DynamoDB, the focus of his blog is on distributed systems and related problems. The main thing I enjoy here is he takes very complicated topics and presents them in an accessible and well written way that is also engaging, which I think is an impressive feat given how far above me it feels like a lot of the problems and solutions are. I particularly like when he will take a classic problem in distributed systems and demonstrate it using some fictional scenario or short story.
 
-[Ice cream and distrubted systems](https://brooker.co.za/blog/2014/10/25/ice-cream.html)
+[Ice cream and distributed systems](https://brooker.co.za/blog/2014/10/25/ice-cream.html)
 
 ### [Carlo Pescio](http://www.carlopescio.com/)
 Carlo is an engineer whose blog is no longer active anymore but is filled with interesting articles. He mainly covers code design, namely OOP, often in a very formal approach but with a witty and snarky writing style that makes the content enjoyable to follow and interact with. For me, the appeal of his blog is he offers a lot of thought provoking challenges and criticisms on what you may consider conventional OOP practice, which similar to Yegor I think is very refreshing to read.
